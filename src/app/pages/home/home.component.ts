@@ -34,7 +34,7 @@ export class HomeComponent implements OnInit {
 
       })
       this.events=events
-      console.log(events)
+      // console.log(events)
     }).catch((e)=> console.log(e))
   }
 
